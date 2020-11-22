@@ -1,5 +1,5 @@
 package mr;
 
-public class b1 {
+public class bb {
 
 }
